@@ -41,6 +41,7 @@ export default {
     type: 'page',
     href: '/api-docs/openapi'
   },
+  'invalid-mdx-code-block': 'Invalid MDX Code Block',
   'api-reference': {
     title: 'API Reference',
     type: 'menu',
